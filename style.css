@@ -1,0 +1,54 @@
+.body-color {
+  background-color: rgb(240, 242, 245);
+}
+
+.nav-bar {
+              background-color: rgb(255, 255, 255);
+  width: 900px;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: -10px;
+  margin-left: 210px;
+}
+
+ .square-boxes {
+   background-color: rgb(7, 12, 31);
+   height: 50px;
+   width: 50px;
+ }
+
+ .square-boxes-rectangle-vertical {
+   background-color: rgb(7, 12, 31);
+   height: 100px;
+   width: 50px;
+ }
+
+ .square-boxes-rectangle-horizontal {
+   background-color: rgb(7, 12, 31);
+   height: 50px;
+   width: 150px;
+ }
+
+ .square-boxes-rectangle-horizontal-2 {
+   background-color: rgb(7, 12, 31);
+   height: 70px;
+   width: 150px;
+ }
+
+.middle-square {
+  background-color: rgb(7, 12, 31);
+  height: 200px;
+  width: 311px;
+}
+
+.thin-rectangle {
+  background-color: rgb(7, 12, 31);
+  height: 20px;
+  width: 200px;
+
+}
+
+.rectangle {
+  background-color: rgb(7, 12, 31);
+  height: 90px;
+}
